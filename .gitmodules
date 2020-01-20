@@ -1,0 +1,3 @@
+[submodule "lib/movingAvg"]
+	path = lib/movingAvg
+	url = https://github.com/JChristensen/movingAvg.git
